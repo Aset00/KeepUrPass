@@ -1,0 +1,15 @@
+.DS_Store
+.gradle/
+.idea/caches/
+.idea/dictionaries/
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/shelf
+.idea/tasks.xml
+.idea/workspace.xml
+*.apk
+app/build/
+app/release/
+build/
+local.properties
+
